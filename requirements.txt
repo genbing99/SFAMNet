@@ -1,0 +1,9 @@
+matplotlib==3.4.3
+numpy==1.22.4
+pandas==1.1.4
+scikit_learn==1.2.0
+scipy==1.7.1
+setuptools==63.2.0
+tensorflow==2.11.0
+tensorflow_gpu==2.4.1
+torch==1.5.0
