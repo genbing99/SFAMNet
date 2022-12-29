@@ -1,11 +1,14 @@
 ## 3D-MEAN: An End-to-End Micro-Expression Analysis Network based on 3D Motion Flow
 
 ## Results
-Performance comparison for micro-expression spotting. <br>
+Performance comparison for <b>micro-expression spotting</b>. <br>
 <img src='images/result_ME_spot.png' width=450 height=180>
 
-Performance comparison for micro-expression recognition. <br>
+Performance comparison for <b>micro-expression recognition</b>. <br>
 <img src='images/result_ME_recog.png' width=700 height=220>
+
+Performance comparison for <b>micro-expression analysis</b>. <br>
+<img src='images/result_ME_analysis.png' width=550 height=110>
 
 ## How to run the code
 <b>Step 1)</b> Download the processed_data from:
