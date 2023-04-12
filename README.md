@@ -1,4 +1,4 @@
-## 3D-MEAN: An End-to-End Micro-Expression Analysis Network based on 3D Motion Flow
+## SFAMNet: A Scene Flow Attention-based Micro-expression Network
 
 ## Results
 Performance comparison for <b>micro-expression spotting</b>. <br>
