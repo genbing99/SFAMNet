@@ -53,7 +53,7 @@ def main(config):
     emotion_type += 1 # Bcoz of neutral emotion
 
     # Training & Evaluation
-    print('\n ------ 3D-MEAN Training and Evaluation ------')
+    print('\n ------ SFAMNet Training and Evaluation ------')
     train_model(train, X_spot, Y_spot, Y1_spot, X_recog, Y1_recog, groupsLabel_spot, groupsLabel_recog, dataset, final_subjects, final_exp, final_samples, final_videos, final_emotions, label_dict, frame_skip, emotion_type, steps, lr, batch_size, model_name, attempt, ratio, micro_threshold, macro_threshold, dif_threshold, video_threshold, loss_lambda, show)
 
     print('\n ------ Completed ------')
