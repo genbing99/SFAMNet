@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-# 3D-MEAN
+# SFAMNet: A Scene Flow Attention-based Micro-expression Network
 class Net_3D_MEAN(nn.Module):
     def _make_layer(self, block, planes, blocks, stride=1, att_type=None):
         inplanes = 1
