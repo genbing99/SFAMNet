@@ -65,7 +65,7 @@ If you find this work useful for your research, please cite
 ```
 
 ## Feedback
-Suggestions and opinions on this dataset (both positive and negative) are greatly welcomed. Please contact the authors by sending an email to
+Suggestions and opinions on this work (both positive and negative) are greatly welcomed. Please contact the authors by sending an email to
 `genbing67@gmail.com` or `cs.chan at um.edu.my`.
 
 ## License and Copyright
