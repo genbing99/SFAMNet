@@ -1,4 +1,8 @@
-## SFAMNet: A Scene Flow Attention-based Micro-expression Network
+# SFAMNet: A Scene Flow Attention-based Micro-expression Network
+
+Neurocomputing | [Paper](https://www.sciencedirect.com/science/article/pii/S0925231223011219) | [Bibtex](#citation) |
+
+(Released on April, 2023)
 
 ## Results
 Performance comparison for <b>micro-expression spotting</b>. <br>
@@ -46,4 +50,26 @@ The files are structured as follows:
 &nbsp;&nbsp; --train (True/False) <br>
 &nbsp;&nbsp; --emotion (4/7)
 
-##### Please email me at genbing67@gmail.com if you have any inquiries or issues.
+## Citation
+If you find this work useful for your research, please cite
+```bibtex
+@article{liong2024sfamnet,
+  title={SFAMNet: A scene flow attention-based micro-expression network},
+  author={Liong, Gen-Bing and Liong, Sze-Teng and Chan, Chee Seng and See, John},
+  journal={Neurocomputing},
+  volume={566},
+  pages={126998},
+  year={2024},
+  publisher={Elsevier}
+}
+```
+
+## Feedback
+Suggestions and opinions on this dataset (both positive and negative) are greatly welcomed. Please contact the authors by sending an email to
+`genbing67@gmail.com` or `cs.chan at um.edu.my`.
+
+## License and Copyright
+The project is open source under BSD-3 license (see the ``` LICENSE ``` file). 
+
+&#169;2023 Center of Image and Signal Processing, Faculty of Computer Science and Information Technology, Universiti Malaya.
+
